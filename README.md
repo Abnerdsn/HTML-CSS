@@ -1,2 +1,4 @@
 # HTML-CSS
- Repositório do Curso em Vídeo
+## Repositório público do Curso em Vídeo.
+
+[!Cursoemvideo](https://i.ytimg.com/vi/P8LxrpNQrTU/maxresdefault.jpg)
