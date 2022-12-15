@@ -7,7 +7,7 @@ Treinamento de **HTML5** com a construção de página com links, imagens e víd
 Construção de página responsiva usando **HTML5** e **CSS**.
 
 ☞ [**Módulo 03** - Desafio 03](https://abnerdsn.github.io/HTML-CSS/modulo03/desafio/) -
-Construção de página responsiva utilizando imagens em paralaxe aprofundando os conhecimentos em **HTML5** e **CSS**.
+Construção de página responsiva utilizando imagens em **paralaxe**.
 
 ![CursoemVideo!](https://i.ytimg.com/vi/P8LxrpNQrTU/maxresdefault.jpg)
 
